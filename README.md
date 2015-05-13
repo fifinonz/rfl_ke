@@ -1,1 +1,6 @@
-Relay For Life - Kenya Website redesign project
+@Relay For Life - Kenya 
+
+UnderConstruction Placeholder
+
+http://relayforlifekenya.org/
+
